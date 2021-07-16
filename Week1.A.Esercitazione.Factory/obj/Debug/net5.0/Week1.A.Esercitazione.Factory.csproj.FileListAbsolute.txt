@@ -1,0 +1,16 @@
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\bin\Debug\net5.0\Week1.A.Esercitazione.Factory.exe
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\bin\Debug\net5.0\Week1.A.Esercitazione.Factory.deps.json
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\bin\Debug\net5.0\Week1.A.Esercitazione.Factory.runtimeconfig.json
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\bin\Debug\net5.0\Week1.A.Esercitazione.Factory.runtimeconfig.dev.json
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\bin\Debug\net5.0\Week1.A.Esercitazione.Factory.dll
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\bin\Debug\net5.0\ref\Week1.A.Esercitazione.Factory.dll
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\bin\Debug\net5.0\Week1.A.Esercitazione.Factory.pdb
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\obj\Debug\net5.0\Week1.A.Esercitazione.Factory.csprojAssemblyReference.cache
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\obj\Debug\net5.0\Week1.A.Esercitazione.Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\obj\Debug\net5.0\Week1.A.Esercitazione.Factory.AssemblyInfoInputs.cache
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\obj\Debug\net5.0\Week1.A.Esercitazione.Factory.AssemblyInfo.cs
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\obj\Debug\net5.0\Week1.A.Esercitazione.Factory.csproj.CoreCompileInputs.cache
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\obj\Debug\net5.0\Week1.A.Esercitazione.Factory.dll
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\obj\Debug\net5.0\ref\Week1.A.Esercitazione.Factory.dll
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\obj\Debug\net5.0\Week1.A.Esercitazione.Factory.pdb
+C:\Users\isabella.centofanti\source\repos\Week1A.Esercitazione\Week1.A.Esercitazione.Factory\obj\Debug\net5.0\Week1.A.Esercitazione.Factory.genruntimeconfig.cache

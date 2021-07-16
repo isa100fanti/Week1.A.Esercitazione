@@ -1,0 +1,6 @@
+2020/10/20;Viaggio;Viaggio in treno a Roma per 3 giorni;300
+2020/10/20;Alloggio;Pernottamento a Londra 2 Notti;300
+2020/12/19;Altro;spese varie;1000
+2020/12/19;Viaggio;UN anno all'estero;25500
+2020/12/19;Vitto;Pranzo e cena 5 giorni;100
+2020/12/19;Alloggio;Appartamento delux dubai;2500
